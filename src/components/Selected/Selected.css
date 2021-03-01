@@ -1,0 +1,17 @@
+.players-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 5px;
+}
+
+.select-heading {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.selected-container>h5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
